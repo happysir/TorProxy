@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/src/uk/ac/cam/cl/dtg/android/tor/TorProxyLib
+END
+HiddenServiceDescriptor.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/src/uk/ac/cam/cl/dtg/android/tor/TorProxyLib/HiddenServiceDescriptor.aidl
+END
+SocksProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/src/uk/ac/cam/cl/dtg/android/tor/TorProxyLib/SocksProxy.java
+END
+ITorProxyControl.aidl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/src/uk/ac/cam/cl/dtg/android/tor/TorProxyLib/ITorProxyControl.aidl
+END
+HiddenServiceDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/src/uk/ac/cam/cl/dtg/android/tor/TorProxyLib/HiddenServiceDescriptor.java
+END
+TorProxyLib.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/src/uk/ac/cam/cl/dtg/android/tor/TorProxyLib/TorProxyLib.java
+END

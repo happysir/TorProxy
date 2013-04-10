@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/res/drawable
+END
+onion_off.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/res/drawable/onion_off.png
+END
+onion_working.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/res/drawable/onion_working.png
+END
+onionstatus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/res/drawable/onionstatus.xml
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/res/drawable/icon.png
+END
+onion_connecting.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/res/drawable/onion_connecting.png
+END

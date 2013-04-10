@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/research/dtg/code/svn/android-tor/!svn/ver/3/TorProxyLib
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/AndroidManifest.xml
+END
+export-torproxylib.jardesc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/research/dtg/code/svn/android-tor/!svn/ver/3/TorProxyLib/export-torproxylib.jardesc
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyLib/COPYING
+END
+TorProxyLib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/research/dtg/code/svn/android-tor/!svn/ver/3/TorProxyLib/TorProxyLib.jar
+END

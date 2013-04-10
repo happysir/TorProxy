@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy
+END
+UnitTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/UnitTests.java
+END
+AboutActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/AboutActivity.java
+END
+EditPreferences.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/EditPreferences.java
+END
+TorProxySettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/TorProxySettings.java
+END
+TorProxyControlService.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/TorProxyControlService.java
+END
+TorProxyLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/TorProxyLog.java
+END
+TorProxyControlServiceReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/TorProxyControlServiceReceiver.java
+END
+TorNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxy/src/uk/ac/cam/cl/dtg/android/tor/TorProxy/TorNotifications.java
+END

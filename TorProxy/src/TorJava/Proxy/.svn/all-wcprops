@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/TorJava/Proxy
+END
+HTTPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/TorJava/Proxy/HTTPConnection.java
+END
+HTTPProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/TorJava/Proxy/HTTPProxy.java
+END
+SocksConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/TorJava/Proxy/SocksConnection.java
+END
+SocksProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/research/dtg/code/svn/android-tor/!svn/ver/2/TorProxy/src/TorJava/Proxy/SocksProxy.java
+END

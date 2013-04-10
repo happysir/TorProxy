@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/research/dtg/code/svn/android-tor/!svn/ver/3/TorProxyExample
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyExample/default.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/research/dtg/code/svn/android-tor/!svn/ver/3/TorProxyExample/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyExample/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/research/dtg/code/svn/android-tor/!svn/ver/1/TorProxyExample/AndroidManifest.xml
+END
